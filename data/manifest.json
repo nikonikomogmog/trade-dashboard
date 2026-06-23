@@ -1,0 +1,34 @@
+{
+  "schema": "static_publish_manifest_v1",
+  "generated_at_utc": "2026-06-16 20:04:55",
+  "purpose": "static site publish data bundle. no db file. no server-side compute.",
+  "elapsed_seconds": 0.037,
+  "files": {
+    "active_notifications.json": {
+      "exists": true,
+      "size_bytes": 24889,
+      "last_write_utc": "2026-06-16 20:04:55"
+    },
+    "dashboard_stats.json": {
+      "exists": true,
+      "size_bytes": 212645,
+      "last_write_utc": "2026-06-16 20:04:55"
+    },
+    "db_latest.json": {
+      "exists": true,
+      "size_bytes": 6483,
+      "last_write_utc": "2026-06-16 20:04:55"
+    }
+  },
+  "source_files": {
+    "active_notifications.json": "active_notifications.json",
+    "dashboard_stats.json": "dashboard_stats.json",
+    "db_latest.json": "db_latest_test.json"
+  },
+  "notes": [
+    "This folder is intended for static hosting upload.",
+    "Do not upload SQLite DB.",
+    "Do not upload MT5 CSV.",
+    "Do not upload logs or backups."
+  ]
+}

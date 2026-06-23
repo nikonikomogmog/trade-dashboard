@@ -737,6 +737,7 @@ function renderTab(key) {
     setupSeriesEtTpTabs(s);
     setupSeriesCurrencyTabs(s);
     setupSeriesPairTabs(s);
+    setupTpRowSelect();
     return;
   }
 

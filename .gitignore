@@ -1,0 +1,3 @@
+# local backups / temp files produced by the publish pipeline - never publish
+*.bak*
+*.tmp

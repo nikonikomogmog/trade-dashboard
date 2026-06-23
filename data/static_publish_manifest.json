@@ -1,0 +1,53 @@
+{
+  "schema": "static_publish_bundle_manifest_v1",
+  "generated_at_utc": "2026-06-16 20:04:56",
+  "purpose": "static publish folder. upload this folder contents to static hosting.",
+  "elapsed_seconds": 0.01,
+  "web_files": {
+    "index.html": {
+      "exists": true,
+      "size_bytes": 1583,
+      "last_write_utc": "2026-06-07 12:09:42"
+    },
+    "app.js": {
+      "exists": true,
+      "size_bytes": 28145,
+      "last_write_utc": "2026-06-16 19:35:44"
+    },
+    "style.css": {
+      "exists": true,
+      "size_bytes": 18946,
+      "last_write_utc": "2026-06-11 23:15:36"
+    }
+  },
+  "data_files": {
+    "active_notifications.json": {
+      "exists": true,
+      "size_bytes": 24889,
+      "last_write_utc": "2026-06-16 20:04:55"
+    },
+    "dashboard_stats.json": {
+      "exists": true,
+      "size_bytes": 212645,
+      "last_write_utc": "2026-06-16 20:04:55"
+    },
+    "db_latest.json": {
+      "exists": true,
+      "size_bytes": 6483,
+      "last_write_utc": "2026-06-16 20:04:55"
+    },
+    "manifest.json": {
+      "exists": true,
+      "size_bytes": 1281,
+      "last_write_utc": "2026-06-16 20:04:55"
+    }
+  },
+  "notes": [
+    "Upload static_publish contents only.",
+    "Do not upload SQLite DB.",
+    "Do not upload MT5 CSV.",
+    "Do not upload logs.",
+    "Do not upload backups.",
+    "Server-side compute is not required."
+  ]
+}

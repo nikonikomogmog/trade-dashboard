@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>trade_dashboard_v1</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>trade_dashboard_v1</h1>
+    <p>通知 → 統計確認 → 押し待ち → READY → 裁量エントリー</p>
+  </header>
+
+  <main class="dashboard-layout">
+    <section class="left-pane">
+      <div class="section-title">
+        <h2>現在通知中</h2>
+        <span id="notificationCount"></span>
+      </div>
+      <div id="activeNotifications" class="active-list"></div>
+    </section>
+
+    <section class="right-pane">
+      <nav class="tabs">
+        <button class="tab active" data-tab="series">Series</button>
+        <button class="tab" data-tab="h1_m5">H1M5</button>
+        <button class="tab" data-tab="h1_m15">H1M15</button>
+        <button class="tab" data-tab="h4_m5">H4M5</button>
+        <button class="tab" data-tab="h4_m15">H4M15</button>
+      </nav>
+      <div id="tabPanel" class="tab-panel"></div>
+    </section>
+  </main>
+
+  <div id="confirmModal" class="modal hidden">
+    <div class="modal-card">
+      <h2>本当に終了しますか？</h2>
+      <div id="modalSummary" class="modal-summary"></div>
+      <div class="modal-actions">
+        <button id="cancelCloseBtn" class="btn secondary">キャンセル</button>
+        <button id="confirmCloseBtn" class="btn danger">終了する</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

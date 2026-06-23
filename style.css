@@ -309,11 +309,7 @@ body {
   .stats-grid {
     grid-template-columns: 1fr;
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* visibility colors */
 .mini-card.buy {
@@ -357,11 +353,7 @@ body {
 .status-invalidated {
   color: #dc2626;
   font-weight: 800;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* direction color: BUY red / SELL blue */
 .mini-card.buy {
@@ -412,11 +404,7 @@ body {
   .mini-metrics strong {
     font-size: 12px;
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* compact notification card */
 .mini-card.compact {
@@ -487,11 +475,7 @@ body {
   .active-list {
     grid-template-columns: 1fr;
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* compact card metric readability */
 .compact-grid span {
@@ -501,11 +485,7 @@ body {
 .compact-grid strong {
   font-size: 14px;
   font-weight: 800;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* compact card source and metric spacing */
 .compact-head .mini-source {
@@ -519,11 +499,7 @@ body {
 
 .compact-grid strong {
   line-height: 1.25;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* Series tab stats */
 .dist-block {
@@ -583,21 +559,13 @@ body {
 
 .series-pair-panel {
   margin-top: 10px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 /* v12 Series section separators */
 .pair-tabs-wrap {
   border-top: 1px solid rgba(148, 163, 184, 0.35);
   padding-top: 14px;
   margin-top: 18px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 /* v12 Series tabs visibility */
 .pair-tabs {
   border: 1px solid rgba(148, 163, 184, 0.35);
@@ -621,11 +589,7 @@ body {
   border-color: rgba(56, 189, 248, 0.85);
   background: rgba(56, 189, 248, 0.20);
   box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.10);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 /* v12 Fib table group separators */
 .stats-table th:nth-child(3),
 .stats-table td:nth-child(3),
@@ -639,20 +603,12 @@ body {
 .stats-table th:nth-child(6),
 .stats-table td:nth-child(6) {
   padding-left: 14px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 /* v12 Fib table separator after bucket column */
 .stats-table th:nth-child(1),
 .stats-table td:nth-child(1) {
   border-right: 1px solid rgba(148, 163, 184, 0.45);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 /* v12 Fib table: compact inside BUY/SELL groups */
 .stats-table th:nth-child(4),
 .stats-table td:nth-child(4),
@@ -668,11 +624,7 @@ body {
 .stats-table td:nth-child(7) {
   padding-left: 4px;
   padding-right: 8px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 /* v12 Fib table: reduce group spacing */
 .stats-table th:nth-child(4),
 .stats-table td:nth-child(4),
@@ -686,11 +638,7 @@ body {
 .stats-table th:nth-child(5),
 .stats-table td:nth-child(5) {
   padding-right: 6px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 /* v12 mobile stats grid: keep compact horizontal cards */
 @media (max-width: 640px) {
   .stats-grid {
@@ -713,11 +661,7 @@ body {
     font-size: 15px;
     white-space: nowrap;
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* reach90 fib table separator fix */
 .fib-table th:nth-child(1),
@@ -742,11 +686,7 @@ body {
 .fib-table td:nth-child(6) {
   border-right: none;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* final reach90 fib separator fix - broader selector */
 table th:nth-child(1),
@@ -780,11 +720,7 @@ table td:nth-child(6),
 .stats-table td:nth-child(6) {
   border-right: none !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* FINAL: stats-table reach90 group separators */
 .stats-table th,
@@ -800,11 +736,7 @@ table td:nth-child(6),
 .stats-table td:nth-child(7) {
   border-right: 1px solid rgba(148, 163, 184, 0.45) !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* FINAL: stats-table reach90 group separators */
 .stats-table th,
@@ -820,11 +752,7 @@ table td:nth-child(6),
 .stats-table td:nth-child(7) {
   border-right: 1px solid rgba(148, 163, 184, 0.45) !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* ET / TP mini tabs */
 .series-et-tp-block {
@@ -858,21 +786,13 @@ table td:nth-child(6),
   white-space: nowrap;
   text-align: center;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* TP table: separator under 30-40 row */
 .tp-table tbody tr:first-child td {
   border-bottom: 2px solid var(--border-strong, #666);
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* TP table final thin lines */
 .tp-table th,
@@ -891,11 +811,7 @@ table td:nth-child(6),
 .tp-table tbody tr:first-child td {
   border-bottom: 1px solid #d8dee8 !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* TP selectable fib row */
 .tp-fib-cell {
@@ -913,11 +829,7 @@ table td:nth-child(6),
   color: #ffffff !important;
   font-weight: 800;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* ET/TP buttons always visible */
 .mini-tabs {
@@ -931,11 +843,7 @@ table td:nth-child(6),
   visibility: visible !important;
   opacity: 1 !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* ET/TP button visibility final */
 .series-et-tp-block .mini-tabs {
@@ -964,11 +872,7 @@ table td:nth-child(6),
   color: #ffffff !important;
   border-color: #111827 !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* TP table: highlight 0＞ column */
 .tp-table th:nth-child(5),
@@ -985,11 +889,7 @@ table td:nth-child(6),
   color: #0f172a !important;
   font-weight: 700 !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* TP table final column widths */
 .tp-table {
@@ -1016,11 +916,7 @@ table td:nth-child(6),
 .tp-table td:nth-child(n+6) {
   width: 92px !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* TP table header readability */
 .tp-table th {
@@ -1032,11 +928,7 @@ table td:nth-child(6),
 .tp-table th:nth-child(n+3) {
   min-width: 78px !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* TP header FINAL readability */
 .tp-table th {
@@ -1056,11 +948,7 @@ table td:nth-child(6),
 .tp-table th:nth-child(n+3) {
   min-width: 92px !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* TP fib left color line */
 .tp-table .tp-fib-cell {
@@ -1078,11 +966,7 @@ table td:nth-child(6),
 .tp-table-all .tp-fib-cell {
   border-left-color: #9ca3af !important;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 .pair-rank-wrap{
   margin-top:10px;
@@ -1102,11 +986,7 @@ table td:nth-child(6),
 .pair-rank-item{
   font-weight:600;
 }
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 .mini-timebucket {
   display: inline-flex;
@@ -1126,11 +1006,7 @@ table td:nth-child(6),
 .mini-source {
   margin-left: auto;
   white-space: nowrap;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 .compact-head {
   display: flex;
@@ -1177,11 +1053,7 @@ table td:nth-child(6),
 
 .mini-source:empty {
   display: none;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 
 /* fix: keep source at top-right, only show time bucket next to READY */
 .compact-head {
@@ -1212,11 +1084,7 @@ table td:nth-child(6),
 
 .mini-timebucket:empty {
   display: none;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 .mini-source {
   display: inline-flex;
   align-items: center;
@@ -1230,18 +1098,10 @@ table td:nth-child(6),
   font-weight: 700;
   line-height: 1.1;
   white-space: nowrap;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a
 .mini-source {
   color: #0f172a;
   border-color: #94a3b8;
   background: #e2e8f0;
   font-weight: 800;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9e1529f619a54aa90cf2c53d8920420d2053976a

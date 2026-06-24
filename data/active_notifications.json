@@ -1,9 +1,9 @@
 {
   "source": "h1m5_state_incremental_v2_test",
   "mode": "h1m5_state_incremental_v2_test",
-  "updated_at_jst": "2026-06-25 06:57:15",
-  "last_processed_h1_time": "2026-06-24 21:00:00",
-  "last_processed_m5_time": "2026-06-24 21:55:00",
+  "updated_at_jst": "2026-06-25 07:57:15",
+  "last_processed_h1_time": "2026-06-24 22:00:00",
+  "last_processed_m5_time": "2026-06-24 22:55:00",
   "notifications": [
     {
       "id": "xau_h1m5_db_H1XAU_202606230700_SELL_M5XAU_202606241800_SELL",
@@ -13,15 +13,15 @@
       "stage": "READY 23.6%",
       "status": "ready",
       "rank": "STRONGEST",
-      "current_pullback_pct": 65.21,
+      "current_pullback_pct": 75.89,
       "h1_pullback_pct": 35.73,
       "m5_wave1_pips": 55.64,
       "historical_update_rate": null,
       "median_ratio": 1.658,
       "m5_zone": "DEEP_CAUTION",
       "elapsed_hours": 29.0,
-      "created_at_jst": "2026-06-25 06:57:19",
-      "updated_at_jst": "2026-06-25 06:57:19",
+      "created_at_jst": "2026-06-25 07:57:19",
+      "updated_at_jst": "2026-06-25 07:57:19",
       "related_realtime_ranking": [],
       "debug": {
         "window_days": 5,
@@ -62,9 +62,9 @@
         "m5_fib_bucket": "35-50",
         "m5_result": "no_result",
         "m5_result_time": null,
-        "m5_current_fib": 0.6521074862945998,
-        "m5_current_price": 4002.942,
-        "m5_current_time": "2026-06-24 20:05:00",
+        "m5_current_fib": 0.7588927833198497,
+        "m5_current_price": 4008.883,
+        "m5_current_time": "2026-06-24 22:00:00",
         "m5_zone": "DEEP_CAUTION",
         "m5_related_realtime_ranking": []
       }

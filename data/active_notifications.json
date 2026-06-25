@@ -1,9 +1,9 @@
 {
   "source": "h1m5_state_incremental_v2_test",
   "mode": "h1m5_state_incremental_v2_test",
-  "updated_at_jst": "2026-06-25 09:57:14",
-  "last_processed_h1_time": "2026-06-25 00:00:00",
-  "last_processed_m5_time": "2026-06-25 00:55:00",
+  "updated_at_jst": "2026-06-25 10:57:14",
+  "last_processed_h1_time": "2026-06-25 01:00:00",
+  "last_processed_m5_time": "2026-06-25 01:55:00",
   "notifications": [
     {
       "id": "xau_h1m5_db_H1XAU_202606230700_SELL_M5XAU_202606241800_SELL",
@@ -20,12 +20,12 @@
       "median_ratio": 1.658,
       "m5_zone": "DEEP_CAUTION",
       "elapsed_hours": 29.0,
-      "created_at_jst": "2026-06-25 09:57:18",
-      "updated_at_jst": "2026-06-25 09:57:18",
+      "created_at_jst": "2026-06-25 10:57:18",
+      "updated_at_jst": "2026-06-25 10:57:18",
       "related_realtime_ranking": [],
       "debug": {
         "window_days": 5,
-        "h1_row_index": 5,
+        "h1_row_index": 7,
         "h1_event_id": "H1XAU_202606230700_SELL",
         "h1_notification_time": "2026-06-23 07:00:00",
         "h1_theme_currency": "XAUUSD",

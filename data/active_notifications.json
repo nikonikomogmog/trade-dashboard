@@ -1,8 +1,8 @@
 {
-  "generated_at_jst": "2026-07-27 09:58:20",
+  "generated_at_jst": "2026-07-27 10:58:21",
   "source": "h1m5_state_incremental_v2_test",
-  "last_processed_h1_time": "2026-07-27 00:00:00",
-  "last_processed_m5_time": "2026-07-27 00:55:00",
+  "last_processed_h1_time": "2026-07-27 01:00:00",
+  "last_processed_m5_time": "2026-07-27 01:55:00",
   "notifications": [
     {
       "id": "h1m5_db_H1A_202607231300_JPY_SELL_M5A_202607270020_JPY_SELL",
@@ -19,8 +19,8 @@
       "median_ratio": 1.788,
       "m5_zone": "GOOD_35_45",
       "elapsed_hours": 3.33,
-      "created_at_jst": "2026-07-27 09:42:12",
-      "updated_at_jst": "2026-07-27 09:42:12",
+      "created_at_jst": "2026-07-27 10:57:14",
+      "updated_at_jst": "2026-07-27 10:57:14",
       "related_realtime_ranking": [
         {
           "pair": "EURJPY",
@@ -72,9 +72,9 @@
         "m5_wave1_pips": 16.899999999998272,
         "m5_recent_median_pips": 9.450000000001069,
         "m5_wave1_vs_recent_median": 1.7883597883594033,
-        "m5_pullback_fib": 0.1301775147928616,
-        "m5_pullback_time": "2026-07-27 00:25:00",
-        "m5_pullback_price": 186.548,
+        "m5_pullback_fib": 0.3136094674556372,
+        "m5_pullback_time": "2026-07-27 01:35:00",
+        "m5_pullback_price": 186.517,
         "m5_fib_bucket": "no_35_pullback",
         "m5_result": "no_35_pullback",
         "m5_result_time": null,

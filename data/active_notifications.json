@@ -1,8 +1,8 @@
 {
-  "generated_at_jst": "2026-07-29 03:58:25",
+  "generated_at_jst": "2026-07-29 04:58:25",
   "source": "h1m5_state_incremental_v2_test",
-  "last_processed_h1_time": "2026-07-28 18:00:00",
-  "last_processed_m5_time": "2026-07-28 18:55:00",
+  "last_processed_h1_time": "2026-07-28 19:00:00",
+  "last_processed_m5_time": "2026-07-28 19:55:00",
   "notifications": [
     {
       "id": "h1m5_db_H1A_202607231300_JPY_SELL_M5A_202607281610_JPY_SELL",
@@ -12,15 +12,15 @@
       "stage": "READY 23.6%",
       "status": "ready",
       "rank": "STRONGEST",
-      "current_pullback_pct": 25.84,
+      "current_pullback_pct": 33.22,
       "h1_pullback_pct": 36.96,
       "m5_wave1_pips": 29.8,
       "historical_update_rate": null,
       "median_ratio": 1.753,
       "m5_zone": "EARLY_READY_236",
       "elapsed_hours": 43.17,
-      "created_at_jst": "2026-07-29 03:07:19",
-      "updated_at_jst": "2026-07-29 03:07:19",
+      "created_at_jst": "2026-07-29 04:52:18",
+      "updated_at_jst": "2026-07-29 04:52:18",
       "related_realtime_ranking": [
         {
           "pair": "EURJPY",
@@ -32,11 +32,11 @@
           "m5_wave1_start_price": 186.32,
           "m5_wave1_end_price": 186.618,
           "rank": 1,
-          "current_fib": 0.25838926174495874,
-          "current_fib_pct": 25.84,
-          "current_fib_display_pct": 25.84,
-          "current_price": 186.541,
-          "current_time": "2026-07-28 18:05:00"
+          "current_fib": 0.332214765100634,
+          "current_fib_pct": 33.22,
+          "current_fib_display_pct": 33.22,
+          "current_price": 186.519,
+          "current_time": "2026-07-28 18:10:00"
         },
         {
           "pair": "AUDJPY",
@@ -48,11 +48,11 @@
           "m5_wave1_start_price": 114.094,
           "m5_wave1_end_price": 114.32,
           "rank": 2,
-          "current_fib": 0.3407079646017632,
-          "current_fib_pct": 34.07,
-          "current_fib_display_pct": 34.07,
-          "current_price": 114.243,
-          "current_time": "2026-07-28 17:45:00"
+          "current_fib": 0.40265486725661215,
+          "current_fib_pct": 40.27,
+          "current_fib_display_pct": 40.27,
+          "current_price": 114.229,
+          "current_time": "2026-07-28 18:10:00"
         }
       ],
       "debug": {
@@ -88,15 +88,15 @@
         "m5_wave1_pips": 29.800000000000182,
         "m5_recent_median_pips": 17.00000000000159,
         "m5_wave1_vs_recent_median": 1.7529411764704348,
-        "m5_pullback_fib": 0.25838926174495874,
-        "m5_pullback_time": "2026-07-28 18:05:00",
-        "m5_pullback_price": 186.541,
+        "m5_pullback_fib": 0.332214765100634,
+        "m5_pullback_time": "2026-07-28 18:10:00",
+        "m5_pullback_price": 186.519,
         "m5_fib_bucket": "no_35_pullback",
         "m5_result": "no_35_pullback",
         "m5_result_time": null,
-        "m5_current_fib": 0.25838926174495874,
-        "m5_current_price": 186.541,
-        "m5_current_time": "2026-07-28 18:05:00",
+        "m5_current_fib": 0.332214765100634,
+        "m5_current_price": 186.519,
+        "m5_current_time": "2026-07-28 18:10:00",
         "m5_zone": "EARLY_READY_236",
         "m5_related_realtime_ranking": [
           {
@@ -109,11 +109,11 @@
             "m5_wave1_start_price": 186.32,
             "m5_wave1_end_price": 186.618,
             "rank": 1,
-            "current_fib": 0.25838926174495874,
-            "current_fib_pct": 25.84,
-            "current_fib_display_pct": 25.84,
-            "current_price": 186.541,
-            "current_time": "2026-07-28 18:05:00"
+            "current_fib": 0.332214765100634,
+            "current_fib_pct": 33.22,
+            "current_fib_display_pct": 33.22,
+            "current_price": 186.519,
+            "current_time": "2026-07-28 18:10:00"
           },
           {
             "pair": "AUDJPY",
@@ -125,11 +125,11 @@
             "m5_wave1_start_price": 114.094,
             "m5_wave1_end_price": 114.32,
             "rank": 2,
-            "current_fib": 0.3407079646017632,
-            "current_fib_pct": 34.07,
-            "current_fib_display_pct": 34.07,
-            "current_price": 114.243,
-            "current_time": "2026-07-28 17:45:00"
+            "current_fib": 0.40265486725661215,
+            "current_fib_pct": 40.27,
+            "current_fib_display_pct": 40.27,
+            "current_price": 114.229,
+            "current_time": "2026-07-28 18:10:00"
           }
         ]
       }
@@ -149,8 +149,8 @@
       "median_ratio": 1.665,
       "m5_zone": "EARLY_READY_236",
       "elapsed_hours": 10.92,
-      "created_at_jst": "2026-07-29 03:57:19",
-      "updated_at_jst": "2026-07-29 03:57:19",
+      "created_at_jst": "2026-07-29 04:57:18",
+      "updated_at_jst": "2026-07-29 04:57:18",
       "related_realtime_ranking": [
         {
           "pair": "GBPUSD",
